@@ -30,7 +30,6 @@ See the `screenshots/` folder for terminal output showing:
 - `task1_output.png` — a successful run and an invalid-input case for the Number Guessing Game.
 - `task2_output.png` — a successful run of the Student Grade & Attendance Tracker.
 
-*(Add your own screenshots here before submitting — run each script, capture the terminal, and save the images in this folder.)*
 
 ## Notes
 
